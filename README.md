@@ -1,7 +1,7 @@
 # Neural-network-models-for-multiclass-classcification
 Tensorflow/Keras and Pytorch/Skorch models for multiclass classification, hyperparameter tuning, and model evaluation.
 
-![image](https://github.com/hanfei1986/Neural-network-models-for-multiclass-classcification/assets/59255164/bac7efb8-d64f-4c7f-a63b-6b4034f742ea)
+![image](https://github.com/hanfei1986/Neural-network-models-for-multiclass-classcification/assets/59255164/9a88a267-a3ae-47f0-b223-edf6f39ea4bf)
 
 ![image](https://github.com/hanfei1986/Neural-network-models-for-multiclass-classcification/assets/59255164/be571896-6f2d-40fb-95a9-9170321b943c)
 
